@@ -9,9 +9,8 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SBE10OC)  
 
 ## 🛡️ TryHackMe
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Shehap10.png" alt="TryHackMe Badge" />
-</p>
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Shehap10.png)
+
 
 
 # 💻 Tech Stack:
