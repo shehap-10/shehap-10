@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I am network engineering and cybersecurity at AOU  
+🎓 I am network engineering  at AOU  
 🧑🏼‍💻 Coding is one of my hobbies  
 🪪 I have Network+ , Security+ , eWPT , and CCNP (Soon)  
 🎯 My goal is to become a Network Security Engineer / Security Engineer  
